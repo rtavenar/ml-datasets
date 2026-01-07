@@ -5,6 +5,7 @@
 * <https://github.com/rtavenar/ml-datasets/releases/download/cricket_football_baseball/cricket-football-baseball.zip>
 * <https://github.com/rtavenar/ml-datasets/releases/download/hangtime_har/hangtime_har.zip>
 * <https://github.com/rtavenar/ml-datasets/releases/download/SequenceMNIST/file.pkl>
+* <https://github.com/rtavenar/ml-datasets/releases/download/SpeedDating/SpeedDating.csv>
 
 Also a UNet model pre-trained on mini-Vaihingen:
 
