@@ -4,6 +4,7 @@
 * <https://github.com/rtavenar/ml-datasets/releases/download/unet_vaihingen/mini-vaihingen.zip>
 * <https://github.com/rtavenar/ml-datasets/releases/download/cricket_football_baseball/cricket-football-baseball.zip>
 * <https://github.com/rtavenar/ml-datasets/releases/download/hangtime_har/hangtime_har.zip>
+* <https://github.com/rtavenar/ml-datasets/releases/download/UCIHAR/UCIHAR.npz>
 
 Also a UNet model pre-trained on mini-Vaihingen:
 
